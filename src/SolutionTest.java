@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /*
- * Test classa solution
+ * Test class solution
  */
 public class SolutionTest extends Assert {
     /* not change list */
